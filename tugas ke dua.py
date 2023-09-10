@@ -1,0 +1,11 @@
+nama = input ("masukkan nama : ")
+print ("selamat datang di kalkulator simpel saya")
+print ("hello, " , nama)
+print ("perkenalkan nama saya cindy rosemelinda")
+print ("NIM : 230441100118 ")
+print (input ("ingin menghitung apa?"))
+jr = int (input ("jari-jari tabung : "))
+t = int (input ("tinggi tabung : "))
+r = 22/7
+hasil = int ((r*(jr*jr))*t)
+print ("volume dari tabung tersebut adalah : " , hasil )
